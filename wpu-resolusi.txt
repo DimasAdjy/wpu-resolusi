@@ -4,3 +4,4 @@ WPU resolusi
 - membuat website portofolio
 - membuat program sederhana
 - membuat projek
+- membuat apa aja
