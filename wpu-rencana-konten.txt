@@ -4,3 +4,4 @@ RENCANA KONTEN WPU
  detail
 - Interview
 - vlog
+- Fundamental struktur data
