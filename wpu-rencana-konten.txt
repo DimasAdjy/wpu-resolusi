@@ -4,5 +4,6 @@ RENCANA KONTEN WPU
  detail
 - Interview
 - vlog
-- php
-- ruby
+- Fundamental struktur data
+- phyton
+- pascal
