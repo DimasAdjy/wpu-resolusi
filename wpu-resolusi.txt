@@ -2,3 +2,5 @@ WPU resolusi
 - konsisten belajar programing
 - membuat personal website
 - membuat website portofolio
+- membuat program sederhana
+- membuat projek
