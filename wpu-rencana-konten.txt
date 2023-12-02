@@ -5,3 +5,5 @@ RENCANA KONTEN WPU
 - Interview
 - vlog
 - Fundamental struktur data
+- phyton
+- pascal
