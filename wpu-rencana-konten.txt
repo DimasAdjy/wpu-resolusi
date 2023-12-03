@@ -2,6 +2,8 @@ RENCANA KONTEN WPU
 - Javascript
  detail
  detail
+ angular
+ reactk
 - Interview
 - vlog
 - Fundamental struktur data
